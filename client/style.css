@@ -7,6 +7,28 @@
   font-family: "Alegreya Sans", sans-serif;
 }
 
+/* ajay additions for header */
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+#app h1 {
+    color: rgb(12, 110, 49);
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+    animation: bounce 0.5s ease-in-out infinite;
+}
+
 body {
   background: #343541;
 }
