@@ -8,4 +8,5 @@ and I'm grateful for the resources and tools that OpenAI has provided to make it
 
 The sever is being run and deployed on **render** web service and the client is run and deployed through **vercel**
 
-Check it out: https://chat-gpt-ajay.vercel.app/
+Check out the server directly from: https://ajay-bot.onrender.com/
+Check out the client directly from: https://chat-gpt-ajay.vercel.app/
